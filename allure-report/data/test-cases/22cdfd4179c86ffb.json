@@ -1,0 +1,164 @@
+{
+  "uid" : "22cdfd4179c86ffb",
+  "name" : "Given the user is on the BestBuy home page",
+  "fullName" : "BestBuy search filters: Search. Filter by Brand.Given the user is on the BestBuy home page",
+  "historyId" : "46afeb0c89236b30d8b0ac41941c671a",
+  "time" : {
+    "start" : 1656526359188,
+    "stop" : 1656526364355,
+    "duration" : 5167
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1656526359188,
+        "stop" : 1656526361161,
+        "duration" : 1973
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4f275a127208cb0b",
+        "name" : "Request",
+        "source" : "4f275a127208cb0b.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "fe076857d58698d1",
+        "name" : "Screenshot",
+        "source" : "fe076857d58698d1.png",
+        "type" : "image/png",
+        "size" : 864893
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user is on the BestBuy home page"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79d913c44e1bf6da",
+      "status" : "failed",
+      "statusDetails" : "unknown error: unknown error: unexpected command response",
+      "time" : {
+        "start" : 1656526345259,
+        "stop" : 1656526359183,
+        "duration" : 13924
+      }
+    }, {
+      "uid" : "4780b495445ef30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526312228,
+        "stop" : 1656526318573,
+        "duration" : 6345
+      }
+    }, {
+      "uid" : "22934ec5e6547b70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525374727,
+        "stop" : 1656525377370,
+        "duration" : 2643
+      }
+    }, {
+      "uid" : "29503802034ea9a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525340845,
+        "stop" : 1656525343840,
+        "duration" : 2995
+      }
+    }, {
+      "uid" : "3496f50b53856d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525304735,
+        "stop" : 1656525309122,
+        "duration" : 4387
+      }
+    }, {
+      "uid" : "9b7a7fd2ae350338",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522890360,
+        "stop" : 1656522892618,
+        "duration" : 2258
+      }
+    }, {
+      "uid" : "b1169eecbb0568e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522860155,
+        "stop" : 1656522862477,
+        "duration" : 2322
+      }
+    }, {
+      "uid" : "bb30dd0ca5cc8f39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522827312,
+        "stop" : 1656522831273,
+        "duration" : 3961
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22cdfd4179c86ffb.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

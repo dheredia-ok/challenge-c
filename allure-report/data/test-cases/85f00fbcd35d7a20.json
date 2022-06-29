@@ -1,0 +1,91 @@
+{
+  "uid" : "85f00fbcd35d7a20",
+  "name" : "Given the user is on the BestBuy home page",
+  "fullName" : "BestBuy search filters: Search. Filter by Rating.Given the user is on the BestBuy home page",
+  "historyId" : "38e9d5bf187e3946ef27b24833f8a69f",
+  "time" : {
+    "start" : 1656526457857,
+    "stop" : 1656526462428,
+    "duration" : 4571
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1656526457857,
+        "stop" : 1656526462427,
+        "duration" : 4570
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2b8867be49f5abc",
+        "name" : "Request",
+        "source" : "2b8867be49f5abc.json",
+        "type" : "application/json",
+        "size" : 53
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user is on the BestBuy home page"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85f00fbcd35d7a20.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

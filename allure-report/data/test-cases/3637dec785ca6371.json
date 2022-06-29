@@ -1,0 +1,112 @@
+{
+  "uid" : "3637dec785ca6371",
+  "name" : "Given the user is on the BestBuy home page",
+  "fullName" : "BestBuy search filters: Search. Filter by Custom Price.Given the user is on the BestBuy home page",
+  "historyId" : "d251934d96d391004b48ee8f1da680b8",
+  "time" : {
+    "start" : 1656525575101,
+    "stop" : 1656525577977,
+    "duration" : 2876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1656525575102,
+        "stop" : 1656525575949,
+        "duration" : 847
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4f60038f56ce2214",
+        "name" : "Request",
+        "source" : "4f60038f56ce2214.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "b3e60e67bbfa29d",
+        "name" : "Screenshot",
+        "source" : "b3e60e67bbfa29d.png",
+        "type" : "image/png",
+        "size" : 646841
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1656525577976,
+        "stop" : 0,
+        "duration" : -1656525577976
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user is on the BestBuy home page"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3637dec785ca6371.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

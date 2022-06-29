@@ -1,0 +1,60 @@
+{
+  "uid" : "5978cce85dfedda7",
+  "name" : "",
+  "fullName" : "BestBuy search filters: Search. Filter by Custom Price.",
+  "historyId" : "8c23a0824f83b4eca21f5825aaa77787",
+  "time" : {
+    "start" : 1656523086001,
+    "stop" : 1656523086001,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Custom Price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5978cce85dfedda7.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

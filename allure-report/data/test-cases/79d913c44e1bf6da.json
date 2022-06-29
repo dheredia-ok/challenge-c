@@ -1,0 +1,112 @@
+{
+  "uid" : "79d913c44e1bf6da",
+  "name" : "Given the user is on the BestBuy home page",
+  "fullName" : "BestBuy search filters: Search. Filter by Brand.Given the user is on the BestBuy home page",
+  "historyId" : "46afeb0c89236b30d8b0ac41941c671a",
+  "time" : {
+    "start" : 1656526345259,
+    "stop" : 1656526359183,
+    "duration" : 13924
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "unknown error: unknown error: unexpected command response",
+  "statusTrace" : "unknown error: unknown error: unexpected command response\n                  (Session info: chrome=103.0.5060.53)\n                    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at async World.<anonymous> (/Users/davidheredia/VSProjects/challenge-c/features/step-definitions/steps.js:6:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "unknown error: unknown error: unexpected command response",
+    "statusTrace" : "unknown error: unknown error: unexpected command response\n                  (Session info: chrome=103.0.5060.53)\n                    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at async World.<anonymous> (/Users/davidheredia/VSProjects/challenge-c/features/step-definitions/steps.js:6:3)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1656526345259,
+        "stop" : 1656526359183,
+        "duration" : 13924
+      },
+      "status" : "failed",
+      "statusMessage" : "unknown error: unknown error: unexpected command response\n                  (Session info: chrome=103.0.5060.53)\n                    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at async World.<anonymous> (/Users/davidheredia/VSProjects/challenge-c/features/step-definitions/steps.js:6:3)",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/screenshot",
+        "time" : {
+          "start" : 1656526359182,
+          "stop" : 1656526359183,
+          "duration" : 1
+        },
+        "status" : "failed",
+        "statusMessage" : "unknown error: unknown error: unexpected command response\n                  (Session info: chrome=103.0.5060.53)\n                    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at async World.<anonymous> (/Users/davidheredia/VSProjects/challenge-c/features/step-definitions/steps.js:6:3)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "d2d1c4a49747cf05",
+        "name" : "Request",
+        "source" : "d2d1c4a49747cf05.json",
+        "type" : "application/json",
+        "size" : 53
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user is on the BestBuy home page"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79d913c44e1bf6da.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

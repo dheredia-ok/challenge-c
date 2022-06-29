@@ -1,0 +1,23 @@
+{
+    "name": "challenge-c",
+    "version": "1.0.0",
+    "description": "challenge-c",
+    "main": "index.js",
+    "scripts": {
+        "test": "test",
+        "wdio": "wdio run wdio.conf.js"
+    },
+    "author": "david heredia",
+    "license": "ISC",
+    "devDependencies": {
+        "@wdio/allure-reporter": "^7.20.3",
+        "@wdio/cli": "^7.20.5",
+        "@wdio/cucumber-framework": "^7.20.3",
+        "@wdio/local-runner": "^7.20.5",
+        "@wdio/selenium-standalone-service": "^7.20.3",
+        "@wdio/spec-reporter": "^7.20.3"
+    },
+    "dependencies": {
+        "uuid": "^8.3.2"
+    }
+}

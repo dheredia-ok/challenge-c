@@ -1,0 +1,157 @@
+{
+  "uid" : "f62b7a94a9998fc7",
+  "name" : "Given the user is on the BestBuy home page",
+  "fullName" : "BestBuy search filters: Search. Filter by Rating.Given the user is on the BestBuy home page",
+  "historyId" : "38e9d5bf187e3946ef27b24833f8a69f",
+  "time" : {
+    "start" : 1656526495904,
+    "stop" : 1656526497962,
+    "duration" : 2058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1656526495905,
+        "stop" : 1656526497961,
+        "duration" : 2056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5062462c6a28328a",
+        "name" : "Request",
+        "source" : "5062462c6a28328a.json",
+        "type" : "application/json",
+        "size" : 53
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user is on the BestBuy home page"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Rating"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85f00fbcd35d7a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526457857,
+        "stop" : 1656526462428,
+        "duration" : 4571
+      }
+    }, {
+      "uid" : "203dbcc97cd935c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526420804,
+        "stop" : 1656526425865,
+        "duration" : 5061
+      }
+    }, {
+      "uid" : "1c6d420223d2c77a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525508859,
+        "stop" : 1656525511668,
+        "duration" : 2809
+      }
+    }, {
+      "uid" : "902f711b55a6fc55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525471698,
+        "stop" : 1656525476248,
+        "duration" : 4550
+      }
+    }, {
+      "uid" : "e73c58891da87572",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525435155,
+        "stop" : 1656525437776,
+        "duration" : 2621
+      }
+    }, {
+      "uid" : "241f9897126407a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523021351,
+        "stop" : 1656523023638,
+        "duration" : 2287
+      }
+    }, {
+      "uid" : "43c451a29f422c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522985229,
+        "stop" : 1656522987581,
+        "duration" : 2352
+      }
+    }, {
+      "uid" : "f2cf4deb932a1f87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522947876,
+        "stop" : 1656522950978,
+        "duration" : 3102
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f62b7a94a9998fc7.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

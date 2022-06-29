@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "3371900f7ebf93a0f75a4e1c318c6947",
+    "name" : "BestBuy search filters: Search. Filter by Rating",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "b44616977b170377958ebede102df434",
+    "name" : "BestBuy search filters: Search. Filter by Brand",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "59226b52abe697f9eaeac5a2274ca6a8",
+    "name" : "BestBuy search filters: Search. Filter by Television Type",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "090c3aed3684c800c4f88230109908c1",
+    "name" : "BestBuy search filters: Search. Filter by Price",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "a27d615f8cad612f083fe7506476331a",
+    "name" : "BestBuy search filters: Search. Filter by Custom Price",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

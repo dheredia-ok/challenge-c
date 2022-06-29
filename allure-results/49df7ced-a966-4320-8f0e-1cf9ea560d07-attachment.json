@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[contains(@id, 'shop-sku-list-item')]//h4/a"
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "dd5f4a7d9cbf1625",
+  "name" : "Then every listed product has the selected brand: Dell",
+  "fullName" : "BestBuy search filters: Search. Filter by Brand.Then every listed product has the selected brand: Dell",
+  "historyId" : "bf02e1cf2b49490871fd1da861b5eaa1",
+  "time" : {
+    "start" : 1656526359184,
+    "stop" : 1656526359184,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then every listed product has the selected brand: Dell"
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Brand"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4b76c149abee9549",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525358497,
+        "stop" : 1656525374707,
+        "duration" : 16210
+      }
+    }, {
+      "uid" : "626606a0272a3a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522876786,
+        "stop" : 1656522890341,
+        "duration" : 13555
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd5f4a7d9cbf1625.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

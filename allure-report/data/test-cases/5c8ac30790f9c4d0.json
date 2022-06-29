@@ -1,0 +1,102 @@
+{
+  "uid" : "5c8ac30790f9c4d0",
+  "name" : "",
+  "fullName" : "BestBuy search filters: Search. Filter by Television Type.",
+  "historyId" : "2d4d88f763545d47a8504429cc27f7b1",
+  "time" : {
+    "start" : 1656526420791,
+    "stop" : 1656526420791,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "BestBuy search filters: Search. Filter by Television Type"
+  }, {
+    "name" : "testClass",
+    "value" : "BestBuy search filters: Search. Filter by Television Type"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "BestBuy search filters: Search. Filter by Television Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.53"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad1a8c51121a50ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526390346,
+        "stop" : 1656526390346,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f78eb507c7597124",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525435137,
+        "stop" : 1656525435137,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a61f83846e966479",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525405563,
+        "stop" : 1656525405563,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b428575848286705",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522947862,
+        "stop" : 1656522947862,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "72bbf52980797806",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522920411,
+        "stop" : 1656522920411,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c8ac30790f9c4d0.json",
+  "parameterValues" : [ "chrome-103.0.5060.53" ]
+}

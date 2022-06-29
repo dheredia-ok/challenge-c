@@ -1,0 +1,331 @@
+[ {
+  "uid" : "877cf0740525bbdd",
+  "name" : "Then every listed product has the selected rating: 2",
+  "time" : {
+    "start" : 1656526442937,
+    "stop" : 1656526457843,
+    "duration" : 14906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "245e70c4c8b49300",
+  "name" : "And filters by brand: Dell",
+  "time" : {
+    "start" : 1656526359184,
+    "stop" : 1656526359184,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c38ea7f9af8e9ca7",
+  "name" : "Given the user is on the BestBuy home page",
+  "time" : {
+    "start" : 1656526390346,
+    "stop" : 1656526394733,
+    "duration" : 4387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39495d67392d257f",
+  "name" : "And filters by brand: Lenovo",
+  "time" : {
+    "start" : 1656526376905,
+    "stop" : 1656526378546,
+    "duration" : 1641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d90bb9415c9e3676",
+  "name" : "And filters by rating: 2",
+  "time" : {
+    "start" : 1656526441485,
+    "stop" : 1656526442937,
+    "duration" : 1452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c85e39832a4b612e",
+  "name" : "When the user searches for cellphones",
+  "time" : {
+    "start" : 1656526497962,
+    "stop" : 1656526509575,
+    "duration" : 11613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddd8adf53ecaead4",
+  "name" : "Then every listed product has a price between 100 and 200",
+  "time" : {
+    "start" : 1656526583916,
+    "stop" : 1656526594611,
+    "duration" : 10695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7f3e4d32bbb7c01",
+  "name" : "Given the user is on the BestBuy home page",
+  "time" : {
+    "start" : 1656526531417,
+    "stop" : 1656526533640,
+    "duration" : 2223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2f61b2d4a5c75e",
+  "name" : "When the user searches for laptop",
+  "time" : {
+    "start" : 1656526364355,
+    "stop" : 1656526376905,
+    "duration" : 12550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1da3f81ea9aee8d3",
+  "name" : "Then every listed product has the selected television type: Smart",
+  "time" : {
+    "start" : 1656526410602,
+    "stop" : 1656526420791,
+    "duration" : 10189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd5f4a7d9cbf1625",
+  "name" : "Then every listed product has the selected brand: Dell",
+  "time" : {
+    "start" : 1656526359184,
+    "stop" : 1656526359184,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "919166542296eed1",
+  "name" : "Given the user is on the BestBuy home page",
+  "time" : {
+    "start" : 1656526561220,
+    "stop" : 1656526565184,
+    "duration" : 3964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3324d8761b4f423c",
+  "name" : "And filters it by price: 25 to 49.99",
+  "time" : {
+    "start" : 1656526547001,
+    "stop" : 1656526549150,
+    "duration" : 2149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dad624f5c07d7d50",
+  "name" : "When the user searches for camera",
+  "time" : {
+    "start" : 1656526533640,
+    "stop" : 1656526547001,
+    "duration" : 13361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf83f23aae87c3ca",
+  "name" : "And filters by rating: 3",
+  "time" : {
+    "start" : 1656526476072,
+    "stop" : 1656526478519,
+    "duration" : 2447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccff3459d462beb0",
+  "name" : "",
+  "time" : {
+    "start" : 1656526531402,
+    "stop" : 1656526531402,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa68245a511e9426",
+  "name" : "Then every listed product has the selected brand: ASUS",
+  "time" : {
+    "start" : 1656526334420,
+    "stop" : 1656526345233,
+    "duration" : 10813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "401f6daceb11dfdb",
+  "name" : "When the user searches for television",
+  "time" : {
+    "start" : 1656526394733,
+    "stop" : 1656526409066,
+    "duration" : 14333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f62b7a94a9998fc7",
+  "name" : "Given the user is on the BestBuy home page",
+  "time" : {
+    "start" : 1656526495904,
+    "stop" : 1656526497962,
+    "duration" : 2058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e14eb30da787a739",
+  "name" : "Then every listed product has the selected rating: 3",
+  "time" : {
+    "start" : 1656526478519,
+    "stop" : 1656526495893,
+    "duration" : 17374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50ba2bf8b2613b73",
+  "name" : "",
+  "time" : {
+    "start" : 1656526594611,
+    "stop" : 1656526594611,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22cdfd4179c86ffb",
+  "name" : "Given the user is on the BestBuy home page",
+  "time" : {
+    "start" : 1656526359188,
+    "stop" : 1656526364355,
+    "duration" : 5167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8a1f747ef69a28e",
+  "name" : "And filters by rating: 4",
+  "time" : {
+    "start" : 1656526509575,
+    "stop" : 1656526513641,
+    "duration" : 4066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebc4f35a74a52299",
+  "name" : "And filters it by customprice: 100 to 200",
+  "time" : {
+    "start" : 1656526582349,
+    "stop" : 1656526583916,
+    "duration" : 1567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14016fd45c7ab2ba",
+  "name" : "When the user searches for smartwatch",
+  "time" : {
+    "start" : 1656526565184,
+    "stop" : 1656526582349,
+    "duration" : 17165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d44595c8a2d4887",
+  "name" : "And filters by brand: ASUS",
+  "time" : {
+    "start" : 1656526332528,
+    "stop" : 1656526334420,
+    "duration" : 1892
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c8ac30790f9c4d0",
+  "name" : "",
+  "time" : {
+    "start" : 1656526420791,
+    "stop" : 1656526420791,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b305f10202e482c",
+  "name" : "And filters by television type: Smart",
+  "time" : {
+    "start" : 1656526409066,
+    "stop" : 1656526410602,
+    "duration" : 1536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62c6113aba0feda6",
+  "name" : "Then every listed product has a price between 25 and 49.99",
+  "time" : {
+    "start" : 1656526549150,
+    "stop" : 1656526561207,
+    "duration" : 12057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7bd62f5c80e9981",
+  "name" : "",
+  "time" : {
+    "start" : 1656526390328,
+    "stop" : 1656526390328,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95a59c5558a23cf5",
+  "name" : "",
+  "time" : {
+    "start" : 1656526561207,
+    "stop" : 1656526561207,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d9150d06e24db75",
+  "name" : "Then every listed product has the selected brand: Lenovo",
+  "time" : {
+    "start" : 1656526378546,
+    "stop" : 1656526390328,
+    "duration" : 11782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3062172f2a242dbb",
+  "name" : "Then every listed product has the selected rating: 4",
+  "time" : {
+    "start" : 1656526513641,
+    "stop" : 1656526531401,
+    "duration" : 17760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

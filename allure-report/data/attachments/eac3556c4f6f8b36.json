@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[contains(@id, 'shop-sku-list-item')]//div[contains(@class,'pricing')]//span[@aria-hidden='true']"
+}

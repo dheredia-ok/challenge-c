@@ -1,0 +1,2763 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "",
+      "uid" : "72bbf52980797806",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522920411,
+        "stop" : 1656522920411,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "3a204ade2b1ce2c7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525471698,
+        "stop" : 1656525471698,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "5978cce85dfedda7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523086001,
+        "stop" : 1656523086001,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "22934ec5e6547b70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525374727,
+        "stop" : 1656525377370,
+        "duration" : 2643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by customprice: 100 to 200",
+      "uid" : "fb1b085fc0551d36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523099108,
+        "stop" : 1656523100304,
+        "duration" : 1196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "7027f5a32c2766c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525437776,
+        "stop" : 1656525451961,
+        "duration" : 14185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "2f866df76956d7c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523021331,
+        "stop" : 1656523021331,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "720b5f447315b22a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525340820,
+        "stop" : 1656525340820,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "cb57afd9f7835ed1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522920397,
+        "stop" : 1656522920397,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 25 and 49.99",
+      "uid" : "62c6113aba0feda6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526549150,
+        "stop" : 1656526561207,
+        "duration" : 12057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "4780b495445ef30",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526312228,
+        "stop" : 1656526318573,
+        "duration" : 6345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for smartwatch",
+      "uid" : "14016fd45c7ab2ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526565184,
+        "stop" : 1656526582349,
+        "duration" : 17165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "f4899d240f2264b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525508858,
+        "stop" : 1656525508859,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Lenovo",
+      "uid" : "bce372f56cdf77d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522905857,
+        "stop" : 1656522907236,
+        "duration" : 1379
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "919166542296eed1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526561220,
+        "stop" : 1656526565184,
+        "duration" : 3964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 3",
+      "uid" : "aaa7b96065a1fc31",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525489279,
+        "stop" : 1656525490801,
+        "duration" : 1522
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by television type: Smart",
+      "uid" : "7a34a10a8b5b8c8b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522935282,
+        "stop" : 1656522936815,
+        "duration" : 1533
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "6b993be04397651",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522890360,
+        "stop" : 1656522890360,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "75351fdd24a0bbee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526531417,
+        "stop" : 1656526531417,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "ccff3459d462beb0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526531402,
+        "stop" : 1656526531402,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 17,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 3",
+      "uid" : "b19f26e3f6d056df",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525490801,
+        "stop" : 1656525508846,
+        "duration" : 18045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by customprice: 100 to 200",
+      "uid" : "ebc4f35a74a52299",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526582349,
+        "stop" : 1656526583916,
+        "duration" : 1567
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "c7f3e4d32bbb7c01",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526531417,
+        "stop" : 1656526533640,
+        "duration" : 2223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Lenovo",
+      "uid" : "5d9150d06e24db75",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526378546,
+        "stop" : 1656526390328,
+        "duration" : 11782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected television type: Smart",
+      "uid" : "1da3f81ea9aee8d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526410602,
+        "stop" : 1656526420791,
+        "duration" : 10189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "2b3abe94aac6312a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523023638,
+        "stop" : 1656523037826,
+        "duration" : 14188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by television type: Smart",
+      "uid" : "4b305f10202e482c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526409066,
+        "stop" : 1656526410602,
+        "duration" : 1536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 3",
+      "uid" : "250cf0b94399154c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523001765,
+        "stop" : 1656523003058,
+        "duration" : 1293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "f576a2c43fd6f5f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526457857,
+        "stop" : 1656526457857,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "c988fcfac5d6a159",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526462428,
+        "stop" : 1656526476072,
+        "duration" : 13644
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Dell",
+      "uid" : "dd5f4a7d9cbf1625",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1656526359184,
+        "stop" : 1656526359184,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "1976f2b4a2e35586",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525575089,
+        "stop" : 1656525575089,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by customprice: 100 to 200",
+      "uid" : "92758f53cd569bf9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525589448,
+        "stop" : 1656525591007,
+        "duration" : 1559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "b1169eecbb0568e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522860155,
+        "stop" : 1656522862477,
+        "duration" : 2322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "3637dec785ca6371",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525575101,
+        "stop" : 1656525577977,
+        "duration" : 2876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 100 and 200",
+      "uid" : "ddd8adf53ecaead4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526583916,
+        "stop" : 1656526594611,
+        "duration" : 10695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "f78eb507c7597124",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525435137,
+        "stop" : 1656525435137,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by price: 25 to 49.99",
+      "uid" : "96195adc00b4d41b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525560820,
+        "stop" : 1656525562785,
+        "duration" : 1965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 4",
+      "uid" : "5c71f55bf2e802ce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523037826,
+        "stop" : 1656523039075,
+        "duration" : 1249
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "c4fc121b09101f2b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525602182,
+        "stop" : 1656525602183,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "b428575848286705",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522947862,
+        "stop" : 1656522947862,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 3",
+      "uid" : "e14eb30da787a739",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526478519,
+        "stop" : 1656526495893,
+        "duration" : 17374
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: ASUS",
+      "uid" : "7d44595c8a2d4887",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526332528,
+        "stop" : 1656526334420,
+        "duration" : 1892
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "2f828bee4da81395",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525405549,
+        "stop" : 1656525405550,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "faede9df180ab9ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523113437,
+        "stop" : 1656523113438,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 2",
+      "uid" : "feeac8c0ea0db649",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522967390,
+        "stop" : 1656522985216,
+        "duration" : 17826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 100 and 200",
+      "uid" : "d697aa2640b98853",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525591007,
+        "stop" : 1656525602182,
+        "duration" : 11175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 2",
+      "uid" : "7d9d80e9beeb17dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522966126,
+        "stop" : 1656522967390,
+        "duration" : 1264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "e61ac2b095778124",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523057210,
+        "stop" : 1656523057210,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "916fde303766993a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526495893,
+        "stop" : 1656526495893,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "96da9d77a77482bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522860155,
+        "stop" : 1656522860155,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "3391f7bd5fe913f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526318573,
+        "stop" : 1656526332528,
+        "duration" : 13955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "7b7a88c38da96690",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1656526359183,
+        "stop" : 1656526359184,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Dell",
+      "uid" : "f60a9f9398d1439b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522875271,
+        "stop" : 1656522876786,
+        "duration" : 1515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 4",
+      "uid" : "600f4688768fe8a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523039075,
+        "stop" : 1656523057210,
+        "duration" : 18135
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for television",
+      "uid" : "1b860e8f5b9d9fcd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522922689,
+        "stop" : 1656522935282,
+        "duration" : 12593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "79d913c44e1bf6da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1656526345259,
+        "stop" : 1656526359183,
+        "duration" : 13924
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "6ac63054a0a2d38d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526425866,
+        "stop" : 1656526441485,
+        "duration" : 15619
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 25 and 49.99",
+      "uid" : "f3e89700c871d16d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523074057,
+        "stop" : 1656523085990,
+        "duration" : 11933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: ASUS",
+      "uid" : "fa68245a511e9426",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526334420,
+        "stop" : 1656526345233,
+        "duration" : 10813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "d87951e36b32c6ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523085990,
+        "stop" : 1656523085990,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "43f5940de71d03a3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525544207,
+        "stop" : 1656525547805,
+        "duration" : 3598
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for television",
+      "uid" : "280bf23621854617",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525408287,
+        "stop" : 1656525420470,
+        "duration" : 12183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for smartwatch",
+      "uid" : "d18a75f2227d50e0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523088276,
+        "stop" : 1656523099108,
+        "duration" : 10832
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "c5975af2b10cf47c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525309122,
+        "stop" : 1656525321629,
+        "duration" : 12507
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "e7bd62f5c80e9981",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526390328,
+        "stop" : 1656526390328,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 17,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "4f0a466f0945e3b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522985228,
+        "stop" : 1656522985229,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 2",
+      "uid" : "9856f3481c0958cc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525453537,
+        "stop" : 1656525471682,
+        "duration" : 18145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "209cec25a333bf2a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525544192,
+        "stop" : 1656525544192,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for camera",
+      "uid" : "378ce391fa8ac814",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525547805,
+        "stop" : 1656525560820,
+        "duration" : 13015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "9b7a7fd2ae350338",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522890360,
+        "stop" : 1656522892618,
+        "duration" : 2258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 4",
+      "uid" : "e8a1f747ef69a28e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526509575,
+        "stop" : 1656526513641,
+        "duration" : 4066
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Lenovo",
+      "uid" : "fd77e08ae8daf2f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522907236,
+        "stop" : 1656522920397,
+        "duration" : 13161
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "d0ef6432f06b3959",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526345258,
+        "stop" : 1656526345258,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 4",
+      "uid" : "f877b1599856005a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525526411,
+        "stop" : 1656525544192,
+        "duration" : 17781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "86da9b992cf08345",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525435154,
+        "stop" : 1656525435155,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "b2f61b2d4a5c75e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526364355,
+        "stop" : 1656526376905,
+        "duration" : 12550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "78c99462ab95b2d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526312227,
+        "stop" : 1656526312228,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "f15fa97e0729041",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522827311,
+        "stop" : 1656522827312,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Lenovo",
+      "uid" : "39495d67392d257f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526376905,
+        "stop" : 1656526378546,
+        "duration" : 1641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "30327c7fa1c87ad7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525340845,
+        "stop" : 1656525340845,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for television",
+      "uid" : "401f6daceb11dfdb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526394733,
+        "stop" : 1656526409066,
+        "duration" : 14333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "c12a22d25d768e87",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526561220,
+        "stop" : 1656526561220,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Dell",
+      "uid" : "245e70c4c8b49300",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1656526359184,
+        "stop" : 1656526359184,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "149e9c27d59bfba1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523086001,
+        "stop" : 1656523088276,
+        "duration" : 2275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected television type: Smart",
+      "uid" : "3b89f8cef0f77c28",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522936815,
+        "stop" : 1656522947862,
+        "duration" : 11047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by price: 25 to 49.99",
+      "uid" : "68eecbb6367e7081",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523072178,
+        "stop" : 1656523074057,
+        "duration" : 1879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "3496f50b53856d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525304735,
+        "stop" : 1656525309122,
+        "duration" : 4387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "ad2c09d3bff11f23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525374726,
+        "stop" : 1656525374727,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "7dd7bedf63c04c0b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522890341,
+        "stop" : 1656522890341,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "4a373dfdf0dbbc53",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523021350,
+        "stop" : 1656523021350,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "6a1c49de0f0be249",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525377370,
+        "stop" : 1656525390491,
+        "duration" : 13121
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "dd499c5d0487ba77",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526457843,
+        "stop" : 1656526457843,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 2",
+      "uid" : "877cf0740525bbdd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526442937,
+        "stop" : 1656526457843,
+        "duration" : 14906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "bb30dd0ca5cc8f39",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522827312,
+        "stop" : 1656522831273,
+        "duration" : 3961
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "1846a9489d1d7964",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526359188,
+        "stop" : 1656526359188,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "3a937c58b4d4105e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525511668,
+        "stop" : 1656525524893,
+        "duration" : 13225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "92a7c6c069924a39",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523057225,
+        "stop" : 1656523059399,
+        "duration" : 2174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "bc62363694288e0a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522920411,
+        "stop" : 1656522922688,
+        "duration" : 2277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "8abfe471332b0307",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525471682,
+        "stop" : 1656525471682,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "ac848d48b0d460ae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525575101,
+        "stop" : 1656525575101,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "f62b7a94a9998fc7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526495904,
+        "stop" : 1656526497962,
+        "duration" : 2058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "5c8ac30790f9c4d0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526420791,
+        "stop" : 1656526420791,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "fe500d00d2dde5fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525405563,
+        "stop" : 1656525408287,
+        "duration" : 2724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "8ed0b59fe62634b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526420804,
+        "stop" : 1656526420804,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 25 and 49.99",
+      "uid" : "d6870e84b5f259ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525562785,
+        "stop" : 1656525575088,
+        "duration" : 12303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Dell",
+      "uid" : "626606a0272a3a9c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522876786,
+        "stop" : 1656522890341,
+        "duration" : 13555
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "ac38bda24cafe9e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526345233,
+        "stop" : 1656526345234,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "4406332ad1ae04ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522831273,
+        "stop" : 1656522844285,
+        "duration" : 13012
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Lenovo",
+      "uid" : "10dfe2ba0ea33df1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525392123,
+        "stop" : 1656525405549,
+        "duration" : 13426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: ASUS",
+      "uid" : "d918a4b9759e586c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525321629,
+        "stop" : 1656525325379,
+        "duration" : 3750
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "85f00fbcd35d7a20",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526457857,
+        "stop" : 1656526462428,
+        "duration" : 4571
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 3",
+      "uid" : "bf83f23aae87c3ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526476072,
+        "stop" : 1656526478519,
+        "duration" : 2447
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "e73c58891da87572",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525435155,
+        "stop" : 1656525437776,
+        "duration" : 2621
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for camera",
+      "uid" : "83330dc981e94e00",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523059399,
+        "stop" : 1656523072178,
+        "duration" : 12779
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected television type: Smart",
+      "uid" : "6a9eaf82d4d0d547",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525422919,
+        "stop" : 1656525435137,
+        "duration" : 12218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "1c6d420223d2c77a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525508859,
+        "stop" : 1656525511668,
+        "duration" : 2809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "79e9f864d23245cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522950978,
+        "stop" : 1656522966126,
+        "duration" : 15148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "eca6b97b96d14979",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525374707,
+        "stop" : 1656525374707,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 4",
+      "uid" : "c2f2f55a8559ed6a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525524893,
+        "stop" : 1656525526411,
+        "duration" : 1518
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "c85e39832a4b612e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526497962,
+        "stop" : 1656526509575,
+        "duration" : 11613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Lenovo",
+      "uid" : "8ecdb02682a336b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525390491,
+        "stop" : 1656525392123,
+        "duration" : 1632
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "29503802034ea9a5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525340845,
+        "stop" : 1656525343840,
+        "duration" : 2995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 2",
+      "uid" : "813b75d99ce323f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525451961,
+        "stop" : 1656525453537,
+        "duration" : 1576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "902f711b55a6fc55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525471698,
+        "stop" : 1656525476248,
+        "duration" : 4550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "a45c817a8ef1b05",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522860131,
+        "stop" : 1656522860132,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: ASUS",
+      "uid" : "9e50b40e72f10c1a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522844286,
+        "stop" : 1656522845825,
+        "duration" : 1539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 3",
+      "uid" : "82829adcc5f4dff1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523003058,
+        "stop" : 1656523021330,
+        "duration" : 18272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "50ba2bf8b2613b73",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526594611,
+        "stop" : 1656526594611,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by rating: 2",
+      "uid" : "d90bb9415c9e3676",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526441485,
+        "stop" : 1656526442937,
+        "duration" : 1452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by television type: Smart",
+      "uid" : "8beb3d9b0dcdfd6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525420471,
+        "stop" : 1656525422919,
+        "duration" : 2448
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters it by price: 25 to 49.99",
+      "uid" : "3324d8761b4f423c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526547001,
+        "stop" : 1656526549150,
+        "duration" : 2149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "22cdfd4179c86ffb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526359188,
+        "stop" : 1656526364355,
+        "duration" : 5167
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "c38ea7f9af8e9ca7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526390346,
+        "stop" : 1656526394733,
+        "duration" : 4387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: Dell",
+      "uid" : "4b76c149abee9549",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525358497,
+        "stop" : 1656525374707,
+        "duration" : 16210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "431674c68f6e1a41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522987581,
+        "stop" : 1656523001765,
+        "duration" : 14184
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for smartwatch",
+      "uid" : "b0a3fc6079b3963b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525577977,
+        "stop" : 1656525589448,
+        "duration" : 11471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "a5d87ff4006e3d91",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522892618,
+        "stop" : 1656522905857,
+        "duration" : 13239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "a61f83846e966479",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525405563,
+        "stop" : 1656525405563,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "34ed76355bab6c09",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525508846,
+        "stop" : 1656525508846,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "And filters by brand: Dell",
+      "uid" : "e4225d822b878978",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525356986,
+        "stop" : 1656525358497,
+        "duration" : 1511
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "15125f61e415dbcb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525544207,
+        "stop" : 1656525544207,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "241f9897126407a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523021351,
+        "stop" : 1656523023638,
+        "duration" : 2287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "43c451a29f422c19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522985229,
+        "stop" : 1656522987581,
+        "duration" : 2352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "6a70097ac6046697",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522862477,
+        "stop" : 1656522875271,
+        "duration" : 12794
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "8fc6f73592c9b27c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526495904,
+        "stop" : 1656526495904,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "fac564d1fcb3fbdd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525304733,
+        "stop" : 1656525304735,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: ASUS",
+      "uid" : "2548f8d0d6e56791",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525325379,
+        "stop" : 1656525340819,
+        "duration" : 15440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for laptop",
+      "uid" : "4533eefa8fa48081",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525343840,
+        "stop" : 1656525356985,
+        "duration" : 13145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "4f41735b8899be97",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522985217,
+        "stop" : 1656522985217,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "bd6de80c48a0d3be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522947876,
+        "stop" : 1656522947876,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "778283ae9eb1b15c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523057225,
+        "stop" : 1656523057225,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for camera",
+      "uid" : "dad624f5c07d7d50",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526533640,
+        "stop" : 1656526547001,
+        "duration" : 13361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected brand: ASUS",
+      "uid" : "58e579c4c5ad7243",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522845826,
+        "stop" : 1656522860131,
+        "duration" : 14305
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "95a59c5558a23cf5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526561207,
+        "stop" : 1656526561207,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has a price between 100 and 200",
+      "uid" : "b0f8fdd31586ce72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656523100304,
+        "stop" : 1656523113437,
+        "duration" : 13133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "f2cf4deb932a1f87",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656522947876,
+        "stop" : 1656522950978,
+        "duration" : 3102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Then every listed product has the selected rating: 4",
+      "uid" : "3062172f2a242dbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526513641,
+        "stop" : 1656526531401,
+        "duration" : 17760
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "9e70e7e3aca6aac3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526359184,
+        "stop" : 1656526359184,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "When the user searches for cellphones",
+      "uid" : "a870de73f85db438",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656525476248,
+        "stop" : 1656525489278,
+        "duration" : 13030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "",
+      "uid" : "ad1a8c51121a50ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526390346,
+        "stop" : 1656526390346,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    }, {
+      "name" : "Given the user is on the BestBuy home page",
+      "uid" : "203dbcc97cd935c8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656526420804,
+        "stop" : 1656526425865,
+        "duration" : 5061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.53" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}
