@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/dheredia-ok/challenge-c">
+    <img src="images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Automation Challenge C</h3>
 
   <p align="center">
-    project_description
+    Automation for Test Cases created for the BestBuy website.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dheredia-ok/challenge-c"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/dheredia-ok/challenge-c">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/dheredia-ok/challenge-c/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/dheredia-ok/challenge-c/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,11 +69,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -82,9 +78,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This project is the automation of the tests created for the Automation Challenge C, that [are posted here](https://docs.google.com/spreadsheets/d/1TyN3G0ziZMpRgq2scoZi7lVQVA-6F4GAXfbh75H-kms/edit?usp=sharing).
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+They represent Functional Tests for the search functionality of the [BestBuy website](https://www.bestbuy.com/). Each case consists in the search for certain item (such as a laptop, cellphone, TV, etc.). The results should reflect the application of a defined filter.
+
+The test cases ran by this application are the following:
+
+* Search for 'Laptop' and filter by Brand: 'Asus', 'Dell', 'Lenovo'
+* Search for 'Television' and filter by Television Type: 'Smart'
+* Search for 'Cell Phones' and filter by Rating: '2 & Up', '3 & Up', '4 & Up'
+* Search for 'Camera' and filter by Price: '25 to 49.99'
+* Search for 'Smartwatch' and filter by Price (Custom): '100 to 200'
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,48 +96,55 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [WebdriverIO](https://webdriver.io/)
+* [Cucumber](https://cucumber.io/)
+
+The tools used to create this project were WebdriverIO (using JavaScript) to create the automation itself, and Cucumber, used to create the natural-language instructions and set the parameters needed to run the test cases.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In this section, the steps for installing the project are described. At the end, it would be possible to trigger the execution of the test cases from Jenkins, and to check a generated report.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Jenkins can be downloaded and installed from its [website](https://www.jenkins.io/).
+Right after installing Jenkins, it is recommended to install the suggested plugins, and later, install and configure Allure and NodeJS.
+
+To install the Allure and NodeJS plugins, go to...
+```sh
+Dashboard > Manage Jenkins > Manage Plugins > Available
+```
+
+After installing them, go to...
+```sh
+Dashboard > Manage Jenkins > Global Tool Configuration
+```
+Then, make sure that there is...
+* An active NodeJS installation and
+* An active Allure Commandline installation
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Create a Freestyle project and enter a name for it.
+2. In the "Source Code Management" section, select "Git", and paste the following repository URL: https://github.com/dheredia-ok/challenge-c.git
+3. Add your GitHub credentials: 
+    * Click on Credentials / Add
+    * On "Kind", select "Username and Password"
+    * Write your GitHub Username and Password.
+    * Click on Add.
+4. In the Build section, add two steps: both of them are going to be "Execute Shell". Both steps will have the following instructions:
+    * Step 1: 
+       ```sh
+       npm install
+       ```
+    * Step 2: 
+       ```sh
+       npx wdio
+      ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,72 +153,31 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+After the installation of Jenkins and its necessary plugins, the next step is to run the job. In the job page, click on the "Build Now" option.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+1. Then, a Chrome window will appear, and the tests will run one after the other.
+2. After the job is run, an Allure Report icon will be visible. Click on the icon to see the generated report.
+3. The generated report covers the following points:
+    * Performance of each test case per scenario (which passed and which failed)
+    * The execution time for every step and for the whole test
+    * Screenshots in case of an error
+    * Graphic summary of the trend: Information about the previous runs
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<img src="images/allure.png" alt="Allure">
+<p align="center">
+  The Generated Report
+</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+David Heredia - david.heredia@oktana.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+Project Link: [https://github.com/dheredia-ok/challenge-c](https://github.com/dheredia-ok/challenge-c)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -215,16 +185,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dheredia-ok/challenge-c.svg?style=for-the-badge
+[contributors-url]: https://github.com/dheredia-ok/challenge-c/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dheredia-ok/challenge-c.svg?style=for-the-badge
+[forks-url]: https://github.com/dheredia-ok/challenge-c/network/members
+[stars-shield]: https://img.shields.io/github/stars/dheredia-ok/challenge-c.svg?style=for-the-badge
+[stars-url]: https://github.com/dheredia-ok/challenge-c/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dheredia-ok/challenge-c.svg?style=for-the-badge
+[issues-url]: https://github.com/dheredia-ok/challenge-c/issues
+[license-shield]: https://img.shields.io/github/license/dheredia-ok/challenge-c.svg?style=for-the-badge
+[license-url]: https://github.com/dheredia-ok/challenge-c/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://pe.linkedin.com/in/davidheredia933
 [product-screenshot]: images/screenshot.png
