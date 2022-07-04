@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is the automation of the tests created for the Automation Challenge C, that are defined in the [Test Case Matrix]([https://docs.google.com/spreadsheets/d/1TyN3G0ziZMpRgq2scoZi7lVQVA-6F4GAXfbh75H-kms/edit?usp=sharing](https://github.com/dheredia-ok/challenge-c/blob/d42a0a8bd21376c2ea58c4ab366bde072949fc7b/documents/Automation%20Challenge%20C%20-%20Test%20Case%20Matrix%20-%20Test%20Cases.pdf)).
+This project is the automation of the tests created for the Automation Challenge C, that are defined in the [Test Case Matrix](https://raw.githubusercontent.com/dheredia-ok/challenge-c/master/images/Automation%20Challenge%20C%20-%20Test%20Case%20Matrix.png).
 
 They represent Functional Tests for the search functionality of the [BestBuy website](https://www.bestbuy.com/). Each case consists in the search for certain item (such as a laptop, cellphone, TV, etc.). The results should reflect the application of a defined filter.
 
